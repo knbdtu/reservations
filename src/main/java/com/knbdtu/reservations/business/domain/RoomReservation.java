@@ -2,7 +2,7 @@ package com.knbdtu.reservations.business.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-import java.sql.Date;
+import java.util.Date;
 
 @Getter
 @Setter
